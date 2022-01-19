@@ -1,0 +1,28 @@
+{
+  "name": "courtney-bookme",
+  "version": "1.0.0",
+  "description": "Courtney's Book website",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index",
+    "dev": "nodemon index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/courtney-brown-dev-journey/courtney-bookme.git"
+  },
+  "author": "Courtney Rose Brown",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/courtney-brown-dev-journey/courtney-bookme/issues"
+  },
+  "homepage": "https://github.com/courtney-brown-dev-journey/courtney-bookme#readme",
+  "dependencies": {
+    "bootstrap": "^5.1.3",
+    "express-handlebars": "^6.0.2",
+    "jest": "^27.4.7",
+    "nodemon": "^2.0.15",
+    "supertest": "^6.2.1"
+  }
+}
