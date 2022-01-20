@@ -5,10 +5,55 @@ h1 {
     font-family: 'Fleur De Leah', cursive;
     font-size: 150px;
     text-align: center;
-    color: lightgreen;
+    color: red;
 
 }
 h3 {
- font-family: 'VT323', monospace; 
- color: white;
+    font-family: 'VT323', monospace; 
+    color: white;
 }
+
+/* .book_images{
+    width: 250px;
+    height: 250px;
+    border-radius: 100%;
+    margin-left: auto;
+    margin-right: auto;
+    /* display: block; */
+    /* display: table-row;
+}
+  */
+
+ .row {
+    display: flex;
+  }
+  
+  .column {
+    flex: 33.33%;
+    padding: 5px;
+  }
+  .skux{
+    font-family: 'Fleur De Leah', cursive;
+      text-align: center;
+      font-size: 40px;
+      color: red;
+  }
+  .intro{
+    font-family: 'Fleur De Leah', cursive;
+      text-align: center;
+      font-size: 30px;
+      color: black;
+
+  }
+   .opening {
+       font-family: 'VT323', monospace; 
+       font-size: 20px;
+   }
+
+   .container {
+    padding: 1.5em;
+   }
+
+   .header {
+       text-align: center;
+   }
