@@ -2,12 +2,47 @@
     "books": [
         {
       "id": 1,
-      "title": "n/a",
-      "author": "n/a",
-      "genre": "n/a",
-      "page numbers": "n/a",
-      "year read": "n/a",
-      "synopsis": "n/a"
+      "title": "Daughter of the Forest",
+      "author": "Juliet Marillier",
+      "series": "Sevenwaters",
+      "genre": "fantasy",
+      "pageNumbers": 560,
+      "yearRead": 2019,
+      "description": "Lord Colum of Sevenwaters is blessed with seven children but it is Sorcha, the youngest child and only daughter, who alone is destined to defend her family and protect their land from the invading Britons. For Sorcha is the only one who escapes the cruel influence of Lady Oonagh, her father's new wife. Exiled from Sevenwaters and cast out into the forest and the terrifying world beyond, Sorcha falls into the hands of the feared enemy. Now she is torn between a life she has always known and a love that only comes once. Daughter of the Forest is a mixture of history and heritage, myth and magic, legend and love.",
+      "image": "/images/Daughter_of_the_Forest.jpeg"
+    },
+    {
+      "id": 2,
+      "title": "Son of the Shadows",
+      "author": "Juliet Marillier",
+      "series": "Sevenwaters",
+      "genre": "fantasy",
+      "pageNumbers": 654,
+      "yearRead": 2019,
+      "description": "After years of comparative peace, darkness has fallen upon Ulster. Trouble is brewing and even those in the heart of the forest are not safe. Niamh, elder daughter of Sorcha, is required to make a strategic marriage, while her sister Liadan, who has the gift of Sight and her mother’s talent for healing, finds herself drawn into the shadowy world of the Painted Man and his warrior band. There Liadan begins a journey that is to transform her life.",
+      "image": ""
+    },
+    {
+      "id": 3,
+      "title": "Priestdaddy",
+      "author": "Patrica Lockward",
+      "genre": "Memoir",
+      "pageNumbers": 333,
+      "yearRead": 2019,
+      "description": 
+      "Frances is twenty-one years old, cool-headed, and darkly observant. A college student and aspiring writer, she devotes herself to a life of the mind--and to the beautiful and endlessly self-possessed Bobbi, her best friend and comrade-in-arms. Lovers at school, the two young women now perform spoken-word poetry together in Dublin, where a journalist named Melissa spots their potential. Drawn into Melissa's orbit, Frances is reluctantly impressed by the older woman's sophisticated home and tall, handsome husband. Private property, Frances believes, is a cultural evil--and Nick, a bored actor who never quite lived up to his potential, looks like patriarchy made flesh. But however amusing their flirtation seems at first, it gives way to a strange intimacy neither of them expect. As Frances tries to keep her life in check, her relationships increasingly resist her control: with Nick, with her difficult and unhappy father, and finally even with Bobbi. Desperate to reconcile herself to the desires and vulnerabilities of her body, Frances's intellectual certainties begin to yield to something new: a painful and disorienting way of living from moment to moment.",
+      "image": ""
+    },
+    {
+      "id": 4,
+      "title": "Conversations With Friends",
+      "author": "Sally Rooney",
+      "genre": "Fiction",
+      "pageNumbers": 278,
+      "yearRead": 2019,
+      "description": 
+      "When the expense of a medical procedure forces the 30-year-old Patricia to move back in with her parents, husband in tow, she must learn to live again with her family's simmering madness, and to reckon with the dark side of a childhood spent in the bosom of the Catholic Church. Told with the comic sensibility of a brasher, bluer Waugh or Wodehouse, this is at the same time a lyrical and affecting story of how, having ventured into the underworld, we can emerge with our levity and our sense of justice intact.",
+      "image": ""
     }
-]
-}
+  ]
+} 

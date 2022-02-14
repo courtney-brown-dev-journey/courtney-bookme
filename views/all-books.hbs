@@ -1,0 +1,27 @@
+<h1>All Books</h1> 
+  <div class="center">
+ <a href = "/"> <button type="button" class="home-button">Home </button> </a>
+ </div>
+
+<div class="container">
+<div class="row"> </div>
+    <div class="col-sm"> </div>
+<p class="all_books">{{#each books}}
+        <span style="color:white">Title: </span>{{title}}
+    <br>
+        <span style="color:white">Written by: </span> {{author}}
+    <br>
+        <span style="color:white">Genre: </span> {{genre}}
+    <br>
+        <span style="color:white">Series: </span> {{series}}
+    <br>
+        <span style="color:white">I read it in the year: </span> {{yearRead}}
+    <br>
+        <span style="color:white">Page count: </span>{{pageNumbers}}
+    <br>    
+    📕
+    <br>
+     {{/each}}
+
+ </p>
+</div>
