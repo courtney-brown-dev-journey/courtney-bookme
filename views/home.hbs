@@ -1,27 +1,18 @@
-    <head>
+ <head>
 <link rel="icon" href= "../images/book-favicon.jpg">
 
     </head><title> Courtney - Book Me!</title>
     <body>
             
-        <h1>Courtney, Book&nbsp;&nbsp;Me</h1> 
-            {{!-- <h2 class="intro"> Watch this space </h2>
-            <br> --}}
-            {{!-- <h2 class="skux">  &nbsp;C&nbsp; 📕&nbsp;  R&nbsp;  📕&nbsp; B &nbsp; </h2> --}}
-        <div class="button_group">
-            <a href ="/year"> <button type="button"> Year</button> </a>
-
-            <a href ="/genre"><button type="button">Genre</button> </a>
-            
-            <a href ="/books"><button type="button">All Books</button></a>
-        </div>
-     {{!-- <div class="row">
-     <div class="column"> --}}
-        <img src= "/images/book_in_the_sun.jpeg" class= "year_col_1"  alt= "book in the sun" >
-    {{!-- </div> --}}
-    {{!-- <div class="column"> --}}
-        <img src= "/images/courtney_reading.jpeg" class= "year_col_2"  alt= "Courtney reading in the sun in Rarotonga" >
-    {{!-- </div> --}}
+    {{> header}}
+     
+    <div class="row">
+     <div class="column">
+        <img src= "/images/book_in_the_sun.jpeg" class= "book-column" width="100%" alt= "book in the sun" >
+    </div>
+    <div class="column"> 
+        <img src= "/images/courtney_reading.jpeg" class= "book-column"  alt= "Courtney reading in the sun in Rarotonga" width="100%">
+    </div>
 
         <div class="container">
         <div class="row">
